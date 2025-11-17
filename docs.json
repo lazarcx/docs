@@ -34,8 +34,8 @@
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "anchor": "Discord",
+          "href": "https://discord.gg/6PEQaRRf3F",
           "icon": "newspaper"
         }
       ]
@@ -72,9 +72,9 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://discord.gg/6PEQaRRf3F",
+      "github": "https://github.com/lazarcx",
+      "linkedin": "https://discord.gg/6PEQaRRf3F"
     }
   }
 }
